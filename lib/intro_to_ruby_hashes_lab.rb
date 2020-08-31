@@ -1,5 +1,5 @@
 def new_hash
-  costumes = { "captain" => "Shield", "ironman" => "Helmet", "thor" => "Hammer" }
+  {}
 end
 
 def my_hash
