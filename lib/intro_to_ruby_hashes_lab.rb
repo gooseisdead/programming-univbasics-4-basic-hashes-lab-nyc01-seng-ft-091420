@@ -3,12 +3,12 @@ def new_hash
 end
 
 def my_hash
-  costumes = { "captain" => "Shield", "ironman" => "Helmet", "thor" => "Hammer" }
+  costumes = { captain => "Shield", ironman => "Helmet", thor => "Hammer" }
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-end
+  
+  end
 
 
 def id_hash_generator(number)
