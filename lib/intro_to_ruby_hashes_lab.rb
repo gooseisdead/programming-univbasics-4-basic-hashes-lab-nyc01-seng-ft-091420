@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  costumes = { "captain" => "Shield", "ironman" => "Helmet", "thor" => "Hammer" }
 end
 
 def pioneer
